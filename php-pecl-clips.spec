@@ -32,9 +32,9 @@ In PECL status of this extension is: %{_status}.
 %description -l pl
 CLIPS jest narzêdziem do tworzenia systemów eksperckich. Rozszerzenie
 to jest interfejsem do napisanej w C biblioteki CLIPS. ¦rodowisko
-CLIPS jest inicjowane z ka¿zdym zapytaniem. Wiêkszo¶æ typowych poleceñ
+CLIPS jest inicjowane z ka¿dym zapytaniem. Wiêkszo¶æ typowych poleceñ
 CLIPS jest dostêpnych w postaci funkcji. Dodatkowe funkcje s± dostêpne
-do tworzenia faktów (?) i instacji z tablic asocjacycjnych PHP.
+do tworzenia faktów i instancji z tablic asocjacyjnych PHP.
 
 To rozszerzenie ma w PECL status: %{_status}.
 
