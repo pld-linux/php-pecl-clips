@@ -1,7 +1,7 @@
 %define		_modname	clips
 %define		_status		beta
 Summary:	%{_modname} - Integrated CLIPS environment for deployment of expert systems
-Summary(pl.UTF-8):   %{_modname} - Zintegrowane środowisko CLIPS do tworzenia systemów eksperckich
+Summary(pl.UTF-8):	%{_modname} - Zintegrowane środowisko CLIPS do tworzenia systemów eksperckich
 Name:		php-pecl-%{_modname}
 Version:	0.5.0
 Release:	3
