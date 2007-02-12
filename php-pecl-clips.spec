@@ -1,7 +1,7 @@
 %define		_modname	clips
 %define		_status		beta
 Summary:	%{_modname} - Integrated CLIPS environment for deployment of expert systems
-Summary(pl):	%{_modname} - Zintegrowane ¶rodowisko CLIPS do tworzenia systemów eksperckich
+Summary(pl.UTF-8):   %{_modname} - Zintegrowane Å›rodowisko CLIPS do tworzenia systemÃ³w eksperckich
 Name:		php-pecl-%{_modname}
 Version:	0.5.0
 Release:	3
@@ -26,12 +26,12 @@ facts and instances from associative arrays in PHP.
 
 In PECL status of this extension is: %{_status}.
 
-%description -l pl
-CLIPS jest narzêdziem do tworzenia systemów eksperckich. Rozszerzenie
-to jest interfejsem do napisanej w C biblioteki CLIPS. ¦rodowisko
-CLIPS jest inicjowane z ka¿dym zapytaniem. Wiêkszo¶æ typowych poleceñ
-CLIPS jest dostêpnych w postaci funkcji. Dodatkowe funkcje s± dostêpne
-do tworzenia faktów i instancji z tablic asocjacyjnych PHP.
+%description -l pl.UTF-8
+CLIPS jest narzÄ™dziem do tworzenia systemÃ³w eksperckich. Rozszerzenie
+to jest interfejsem do napisanej w C biblioteki CLIPS. Åšrodowisko
+CLIPS jest inicjowane z kaÅ¼dym zapytaniem. WiÄ™kszoÅ›Ä‡ typowych poleceÅ„
+CLIPS jest dostÄ™pnych w postaci funkcji. Dodatkowe funkcje sÄ… dostÄ™pne
+do tworzenia faktÃ³w i instancji z tablic asocjacyjnych PHP.
 
 To rozszerzenie ma w PECL status: %{_status}.
 
