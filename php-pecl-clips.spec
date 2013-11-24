@@ -5,7 +5,7 @@ Summary:	%{modname} - Integrated CLIPS environment for deployment of expert syst
 Summary(pl.UTF-8):	%{modname} - Zintegrowane środowisko CLIPS do tworzenia systemów eksperckich
 Name:		%{php_name}-pecl-%{modname}
 Version:	0.5.0
-Release:	3
+Release:	4
 License:	PHP 3.0
 Group:		Development/Languages/PHP
 Source0:	http://pecl.php.net/get/%{modname}-%{version}.tgz
@@ -16,6 +16,7 @@ BuildRequires:	rpmbuild(macros) >= 1.650
 %{?requires_php_extension}
 Requires:	php(core) >= 5.0.4
 Obsoletes:	php-pear-%{modname}
+Provides:	php(%{modname}) = %{version}
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
